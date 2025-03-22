@@ -10,7 +10,7 @@
 | ----- | ----- | ----- |
 | Alice Doe | @AliceDoe | Built CNN model, performed data augmentation |
 | Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Anika Bokka | @aninuona | Feature engineered and fine-tuned parameters |
+| Anika | @aninuona | Feature engineered and fine-tuned parameters |
 
 ---
 
@@ -79,8 +79,6 @@
 
 * Performance metrics (e.g., Kaggle Leaderboard score, F1-score)
 * How your model performed overall
-* How your model performed across different skin tones (AJL)
-* Insights from evaluating model fairness (AJL)
 
 **Potential visualizations to include:**
 
@@ -95,16 +93,10 @@
 **WiDS challenge:**
 
 1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
-2. How could your work help contribute to ADHD research and/or clinical care?
-
-**AJL challenge:**
-
-As Dr. Randi mentioned in her challenge overview, “Through poetry, art, and storytelling, you can reach others who might not know enough to understand what’s happening with the machine learning model or data visualizations, but might still be heavily impacted by this kind of work.”
-As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
-Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi6TlPviC3q/view) from the Algorithmic Justice League for inspiration!
-
-1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)? (e.g., leveraging data augmentation techniques to account for training dataset imbalances; using a validation set to assess model performance across different skin tones)
-2. What broader impact could your work have?
+      ADHD is linked to the default mode network and executive function regions of the brain, and patterns of increased theta waves and decreased beta waves.
+      Males and females tend to have different patterns of brain activiation, with differences in attention and impulse control.
+3. How could your work help contribute to ADHD research and/or clinical care?
+     A better understanding of brain activity patterns and differences in the presentation of ADHD in males and females improves diagnostic accuracy and enhances treatment.
 
 ---
 
@@ -113,8 +105,11 @@ Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi
 **Address the following:**
 
 * What are some of the limitations of your model?
+      The free CPU on Kaggle is slow.
 * What would you do differently with more time/resources?
+      Used more advanced techniques like neural networks (CNNs and GNNs).
 * What additional datasets or techniques would you explore?
+      ADHD Teen Integrative Data Analysis Longitudinal (TIDAL), which focuses on adolescents specifically.
 
 ---
 
