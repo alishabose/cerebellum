@@ -88,21 +88,14 @@
 
 ## **🖼️ Impact Narrative**
 
-**Answer the relevant questions below based on your competition:**
 
-**WiDS challenge:**
-
-1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
-      ADHD is linked to the default mode network and executive function regions of the brain, and patterns of increased theta waves and decreased beta waves.
-      Males and females tend to have different patterns of brain activiation, with differences in attention and impulse control.
-3. How could your work help contribute to ADHD research and/or clinical care?
-     A better understanding of brain activity patterns and differences in the presentation of ADHD in males and females improves diagnostic accuracy and enhances treatment.
+ADHD is linked to the default mode network and executive function regions of the brain, and patterns of increased theta waves and decreased beta waves.
+Males and females tend to have different patterns of brain activiation, with differences in attention and impulse control.
+A better understanding of brain activity patterns and differences in the presentation of ADHD in males and females improves diagnostic accuracy and enhances treatment.
 
 ---
 
 ## **🚀 Next Steps & Future Improvements**
-
-**Address the following:**
 
 * What are some of the limitations of your model?
       The free CPU on Kaggle is slow.
