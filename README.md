@@ -9,8 +9,8 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Alisha | @alishabose |           |
-| Emily | @AliceDoe | Built CNN model, performed data augmentation |
-| Krishi | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
+| Emily | @emsteinnn | Built CNN model, performed data augmentation |
+| Krishi | @ | Led EDA, visualized dataset distributions, handled missing data |
 | Anika | @aninuona | Feature engineered and fine-tuned parameters |
 
 ---
