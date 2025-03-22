@@ -6,10 +6,9 @@
 
 ### **👥 Team Members**
 
-| Name | GitHub Handle | Contribution |
-| ----- | ----- | ----- |
-| Alice Doe | @AliceDoe | Built CNN model, performed data augmentation |
-| Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
+| Alisha | @alishabose | ----- |
+| Emily | @AliceDoe | Built CNN model, performed data augmentation |
+| Krishi | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
 | Anika | @aninuona | Feature engineered and fine-tuned parameters |
 
 ---
