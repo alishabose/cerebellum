@@ -7,8 +7,11 @@
 ### **👥 Team Members**
 
 | Alisha | @alishabose | ----- |
+
 | Emily | @AliceDoe | Built CNN model, performed data augmentation |
+
 | Krishi | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
+
 | Anika | @aninuona | Feature engineered and fine-tuned parameters |
 
 ---
