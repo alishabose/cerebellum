@@ -5,7 +5,7 @@
 |--------|--------------------|--------------|
 | Alisha | @alishabose         | Led the project, worked on data pre-processing and visualization |
 | Emily  | @emsteinnn          | Built and trained the model, handled data concatenation  |
-| Krishi | @krishi             | Visualized data distributions and handled missing values |
+| Krishi | @krishishah05             | Visualized data distributions and handled missing values |
 | Anika  | @aninuona           |  Focused on feature engineering and hyperparameter tuning |
 
 ## 🎯 Project Highlights
