@@ -86,7 +86,7 @@ The dataset provided in the Kaggle competition includes:
 
 ## 📈 Results & Key Findings
 ### Performance Metrics:
-- **Accuracy score**: [insert accuracy score] based on the model's performance in the Kaggle leaderboard.
+- **Accuracy score**: 0.39120, with our best score being 0.42176, based on the model's performance in the Kaggle leaderboard.
 
 ### Key Findings:
 - The model was able to identify brain activity patterns that distinguish between different ADHD diagnoses and sex categories.
@@ -102,6 +102,7 @@ ADHD is linked to brain activity patterns, specifically within the **default mod
 ## 🚀 Next Steps & Future Improvements
 ### Limitations:
 - The current model’s performance is constrained by limited compute power on Kaggle (free CPU usage).
+- We also struggled with improving our accuracy, specifically with the addition of a new training dataset towards the end of the competition.
   
 ### What Would You Do Differently With More Time/Resources?
 - Apply advanced deep learning techniques such as **Convolutional Neural Networks (CNNs)** and **Graph Neural Networks (GNNs)** to capture more intricate patterns in brain activity.
