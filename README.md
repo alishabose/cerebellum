@@ -3,8 +3,8 @@
 ## 👥 Team Members
 | Name   | GitHub Handle      | Contribution |
 |--------|--------------------|--------------|
-| Alisha | @alishabose         | Led the project, worked on data pre-processing and visualization |
-| Emily  | @emsteinnn          | Built and trained the model, handled data concatenation  |
+| Alisha | [@alishabose]         | Led the project, worked on data pre-processing and visualization |
+| Emily  | [@emsteinnn]          | Built and trained the model, handled data concatenation  |
 | Krishi | @krishishah05             | Visualized data distributions and handled missing values |
 | Anika  | @aninuona           |  Focused on feature engineering and hyperparameter tuning |
 
