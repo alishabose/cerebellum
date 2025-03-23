@@ -77,7 +77,7 @@ The dataset provided in the Kaggle competition includes:
 
 ### Feature Selection and Hyperparameter Tuning:
 - Applied **multi-output classification** to predict both ADHD diagnosis and sex simultaneously.
-- **GridSearchCV** could be used for hyperparameter tuning if further optimization is needed.
+- **GridSearchCV** could be used for hyperparameter tuning if further optimization is needed, provided having time to run and GPU capacity.
 
 ### Training Setup:
 - Split the data into training and validation sets using `train_test_split`.
@@ -88,7 +88,7 @@ The dataset provided in the Kaggle competition includes:
 - **Accuracy score**: 0.39120, with our best score being 0.42176, based on the model's performance in the Kaggle leaderboard.
 
 ### Key Findings:
-- The model was able to identify brain activity patterns that distinguish between different ADHD diagnoses and sex categories.
+- The model was able to identify brain activity patterns that distinguish between different ADHD diagnoses and sex categories. For ADHD research, this could be imperative in order for early and late intervention strategies. For example, being able to use this data could contribute massively to how clinicians perceive and diagnose ADHD—whereas currently ADHD is diagnoses less frequently in women, this could help bridge this gap.
 
 ### Visualizations:
 - Visualizing data, specifically ADHD Outcome, Gender, and ADHD Prevalence
@@ -105,9 +105,11 @@ ADHD is linked to brain activity patterns, specifically within the **default mod
   
 ### What Would You Do Differently With More Time/Resources?
 - Apply advanced deep learning techniques such as **Convolutional Neural Networks (CNNs)** and **Graph Neural Networks (GNNs)** to capture more intricate patterns in brain activity.
+- We could also do more hyperparameter tuning and if provided more time and efficiency, such as more  usage outside of Kaggle's capabilities, we would be able to run the model with more iterations.
 
 ### Additional Datasets or Techniques to Explore:
 - Explore **ADHD Teen Integrative Data Analysis Longitudinal (TIDAL)** dataset, which focuses specifically on adolescents with ADHD.
+- Use GridSearch for hyperparameter tuning in order to work on our accuracy score, and potentially L1 regularization in order to get rid of unncessary features and help with overfitting.
   
 ## 📄 References & Additional Resources
 - Young, S., Adamo, N., Ásgeirsdóttir, B. B., Branney, P., Beckett, M., Colley, W., Cubbin, S., Deeley, Q., Farrag, E., Gudjonsson, G., Hill, P., Hollingdale, J., Kilic, O., Lloyd, T., Mason, P., Paliokosta, E., Perecherla, S., Sedgwick, J., Skirrow, C., Tierney, K., … Woodhouse, E. (2020). Females with ADHD: An expert consensus statement taking a lifespan approach providing guidance for the identification and treatment of attention-deficit/ hyperactivity disorder in girls and women. *BMC psychiatry*, 20(1), 404. https://doi.org/10.1186/s12888-020-02707-9
