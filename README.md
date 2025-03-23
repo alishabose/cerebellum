@@ -1,5 +1,4 @@
 # Team CEREBELLUM (Women in Data Science)
-⚠️ Remember to update the above title and remove all guidance notes and examples in this template, before finalizing your README
 
 ## 👥 Team Members
 | Name   | GitHub Handle      | Contribution |
