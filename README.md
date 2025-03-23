@@ -4,10 +4,10 @@
 ## 👥 Team Members
 | Name   | GitHub Handle      | Contribution |
 |--------|--------------------|--------------|
-| Alisha | @alishabose         | Led approach, worked on pre-processing, added data visualization |
-| Emily  | @emsteinnn          | Built  model, performed data concat |
-| Krishi | @krishi             | Visualized distributions, handled NaN data |
-| Anika  | @aninuona           | Worked on feature engineering and hyperparameters |
+| Alisha | @alishabose         | Led the project, worked on data pre-processing and visualization |
+| Emily  | @emsteinnn          | Built and trained the model, handled data concatenation  |
+| Krishi | @krishi             | Visualized data distributions and handled missing values |
+| Anika  | @aninuona           |  Focused on feature engineering and hyperparameter tuning |
 
 ## 🎯 Project Highlights
 - Built a **Random Forest Classifier** using **multi-output classification** to predict an individual's **sex** and **ADHD diagnosis** based on functional and categorical metadata.
