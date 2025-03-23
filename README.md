@@ -91,9 +91,9 @@ The dataset provided in the Kaggle competition includes:
 - The model was able to identify brain activity patterns that distinguish between different ADHD diagnoses and sex categories.
 
 ### Visualizations:
-- Confusion matrix for model performance.
-- Precision-recall curve to assess classification performance.
-- Feature importance plot to understand which features were most influential in predictions.
+- Visualizing data, specifically ADHD Outcome, Gender, and ADHD Prevalence
+- Played around with other visualizations in the first submission, then boiled down to what was helpful
+- Predicted vs Actual Outcome 
 
 ## 🖼️ Impact Narrative
 ADHD is linked to brain activity patterns, specifically within the **default mode network** and **executive function regions**. ADHD diagnosis shows differences in male and female presentations, including varying attention and impulse control patterns. Better understanding of these differences through brain activity analysis will enhance diagnostic accuracy and treatment methods for ADHD.
