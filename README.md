@@ -3,10 +3,10 @@
 ## 👥 Team Members
 | Name   | GitHub Handle      | Contribution |
 |--------|--------------------|--------------|
-| Alisha | [@alishabose]         | Led the project, worked on data pre-processing and visualization |
-| Emily  | [@emsteinnn]          | Built and trained the model, handled data concatenation  |
-| Krishi | @krishishah05             | Visualized data distributions and handled missing values |
-| Anika  | @aninuona           |  Focused on feature engineering and hyperparameter tuning |
+| Alisha | [@alishabose](github.com/alishabose)         | Led the project, worked on data pre-processing and visualization |
+| Emily  | [@emsteinnn](github.com/emsteinnn)          | Built and trained the model, handled data concatenation  |
+| Krishi | [@krishishah05](github.com/krishishah05)    | Visualized data distributions and handled missing values |
+| Anika  | [@aninuona](github.com/aninuona)           |  Focused on feature engineering and hyperparameter tuning |
 
 ## 🎯 Project Highlights
 - Built a **Random Forest Classifier** using **multi-output classification** to predict an individual's **sex** and **ADHD diagnosis** based on functional and categorical metadata.
@@ -112,4 +112,4 @@ ADHD is linked to brain activity patterns, specifically within the **default mod
 - Use GridSearch for hyperparameter tuning in order to work on our accuracy score, and potentially L1 regularization in order to get rid of unncessary features and help with overfitting.
   
 ## 📄 References & Additional Resources
-- Young, S., Adamo, N., Ásgeirsdóttir, B. B., Branney, P., Beckett, M., Colley, W., Cubbin, S., Deeley, Q., Farrag, E., Gudjonsson, G., Hill, P., Hollingdale, J., Kilic, O., Lloyd, T., Mason, P., Paliokosta, E., Perecherla, S., Sedgwick, J., Skirrow, C., Tierney, K., … Woodhouse, E. (2020). Females with ADHD: An expert consensus statement taking a lifespan approach providing guidance for the identification and treatment of attention-deficit/ hyperactivity disorder in girls and women. *BMC psychiatry*, 20(1), 404. https://doi.org/10.1186/s12888-020-02707-9
+- Young, S., Adamo, N., Ásgeirsdóttir, B. B., Branney, P., Beckett, M., Colley, W., Cubbin, S., Deeley, Q., Farrag, E., Gudjonsson, G., Hill, P., … Woodhouse, E. (2020). Females with ADHD: An expert consensus statement taking a lifespan approach providing guidance for the identification and treatment of attention-deficit/ hyperactivity disorder in girls and women. *BMC psychiatry*, 20(1), 404. https://doi.org/10.1186/s12888-020-02707-9
