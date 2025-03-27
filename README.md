@@ -21,7 +21,7 @@
 ### Cloning the Repository
 1. Clone this repository to your local machine by running the following command:
     ```bash
-    git clone [https://github.com/cerebellum](https://github.com/alishabose/cerebellum.git)
+    git clone [https://github.com/cerebellum](https://github.com/alishabose/VIR-WiDS-Team-Cerebellum-)
     ```
 
 ### Installing Dependencies
