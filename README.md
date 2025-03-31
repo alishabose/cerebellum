@@ -65,7 +65,8 @@ The dataset provided in the Kaggle competition includes:
 - Aligning different data types (categorical, numeric, and matrix data).
   
 ### Visualizations:
-
+- The visualizations range from a frequency chart of the distribution of 'emotional problem's diagnoses (1) to the count of ADHD prevalence by parent (2) which is another factor in ADHD diagnosis, to finally a graph of results with predicted to actual outcomes of diagnoses.
+  
 <img width="841" alt="Screenshot 2025-03-22 at 8 38 41 PM" src="https://github.com/user-attachments/assets/ad03bca0-c56f-40cf-ac3c-95e881d5a266" />
 <img width="649" alt="Screenshot 2025-03-22 at 8 38 26 PM" src="https://github.com/user-attachments/assets/9b2a4774-8da3-4126-9c92-da77ff8ff80e" />
 <img width="667" alt="Screenshot 2025-03-22 at 8 38 18 PM" src="https://github.com/user-attachments/assets/1a1ebf6c-59f7-45bf-881e-547a420b4dfc" />
@@ -81,11 +82,11 @@ The dataset provided in the Kaggle competition includes:
 
 ### Training Setup:
 - Split the data into training and validation sets using `train_test_split`.
-- Used **accuracy score** to evaluate the performance of the model.
+- Used **precision score** to evaluate the performance of the model.
 
 ## 📈 Results & Key Findings
 ### Performance Metrics:
-- **Accuracy score**: 0.39120, with our best score being 0.42176, based on the model's performance in the Kaggle leaderboard.
+- **Precision score**: 0.39120, with our best score being 0.42176, based on the model's performance in the Kaggle leaderboard.
 
 ### Key Findings:
 - The model was able to identify brain activity patterns that distinguish between different ADHD diagnoses and sex categories. For ADHD research, this could be imperative in order for early and late intervention strategies. For example, being able to use this data could contribute massively to how clinicians perceive and diagnose ADHD—whereas currently ADHD is diagnoses less frequently in women, this could help bridge this gap.
